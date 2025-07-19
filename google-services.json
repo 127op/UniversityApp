@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:549202264660:android:ae52962a2af03bf100e3c1",
+        "mobilesdk_app_id": "xxxxxxxxxxxxxxxxxxx",
         "android_client_info": {
           "package_name": "com.example.collegecampusapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA6YyDRHak37bcYSqtT3xC9D85_1nWgXhQ"
+          "current_key": "xxxxxxxxxxxxxxxxxxxxxx_1nWgXhQ"//hidden: security reasons
         }
       ],
       "services": {
